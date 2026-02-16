@@ -1,13 +1,13 @@
-# Australia Import–Export Visual Analytics: Trade Patterns, Category Analysis & Export Forecasting
+# ASX Stock Market Visual Analytics: GMD Performance Analysis, Returns & Market Insights
 
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Project-Trade%20Visual%20Analytics-blue">
-  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Preparation-brightgreen">
-  <img src="https://img.shields.io/badge/Tableau-Dashboard%20%26%20Storyboarding-orange">
-  <img src="https://img.shields.io/badge/Analysis-Statistical%20Patterns-red">
-  <img src="https://img.shields.io/badge/Forecast-Export%20Trend%20Projection-purple">
+  <img src="https://img.shields.io/badge/Project-Stock%20Market%20Visual%20Analytics-blue">
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Visualization-brightgreen">
+  <img src="https://img.shields.io/badge/Analysis-Price%20Movement%20%26%20Returns-orange">
+  <img src="https://img.shields.io/badge/Finance-PE%20%26%20Yield%20Analysis-red">
+  <img src="https://img.shields.io/badge/Forecast-Performance%20Insights-purple">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
@@ -17,18 +17,18 @@
 
 **Author:** Ali Abbas  
 **Course:** Data Visualisation & Visual Analytics  
-**Project Type:** Trade Data Analytics & Forecasting  
-**Focus Area:** Australia Import–Export Trade (Category 6 & Subcategory 68)  
-**Tools Used:** Excel, Tableau  
+**Project Type:** Stock Market Performance Analytics  
+**Focus Area:** ASX Listed Stock — GMD (2024 Performance Analysis)  
+**Tools Used:** Excel  
 **Year:** 2025  
 
----
 
 
 
 
-# 📊 ASX Stock Market Visual Analytics  
-## Strategic Insights & Performance Analysis — GMD Stock (ASX)
+
+
+
 
 ---
 
