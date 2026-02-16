@@ -248,7 +248,7 @@ asx-stock-market-visual-analytics/
 │   └── Yield_analysis.png
 │
 ├── report/
-│   └── stakeholder_report.pdf
+│   └── GMD_stock_market_analytics.pdf
 │
 └── excel/
     └── gmd_stock_market_analysis.xlsx
