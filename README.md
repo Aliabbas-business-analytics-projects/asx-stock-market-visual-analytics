@@ -1,3 +1,32 @@
+# Australia Import–Export Visual Analytics: Trade Patterns, Category Analysis & Export Forecasting
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Trade%20Visual%20Analytics-blue">
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Preparation-brightgreen">
+  <img src="https://img.shields.io/badge/Tableau-Dashboard%20%26%20Storyboarding-orange">
+  <img src="https://img.shields.io/badge/Analysis-Statistical%20Patterns-red">
+  <img src="https://img.shields.io/badge/Forecast-Export%20Trend%20Projection-purple">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
+</p>
+
+---
+
+## 📌 Project Information
+
+**Author:** Ali Abbas  
+**Course:** Data Visualisation & Visual Analytics  
+**Project Type:** Trade Data Analytics & Forecasting  
+**Focus Area:** Australia Import–Export Trade (Category 6 & Subcategory 68)  
+**Tools Used:** Excel, Tableau  
+**Year:** 2025  
+
+---
+
+
+
+
 # 📊 ASX Stock Market Visual Analytics  
 ## Strategic Insights & Performance Analysis — GMD Stock (ASX)
 
